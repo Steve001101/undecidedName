@@ -21,7 +21,7 @@ public class main {
     
     //create JFrame
     
-    JFrame baka = new JFrame ("Hello this is a test");
+    JFrame baka = new JFrame ("UP v1.0.0");
     baka.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     
     
